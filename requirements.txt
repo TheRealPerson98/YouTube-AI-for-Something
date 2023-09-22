@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+termcolor
+youtube_dl
+dateparser
+tqdm
+aiohttp
+asyncio
+tensorflow
+numpy 
